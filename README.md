@@ -1,7 +1,7 @@
 # Open Bot List
 
 <p align="center">
-    <a title="Support this Project (Donate, Support-Licenses)" href="https://shop.oxl.app/collections/open-source">
+    <a title="Support this Project (Donate, Support-Licenses)" href="https://superstes.at#donate">
         <img src="https://files.oxl.at/img/badge-oss-support.svg" alt="Support Badge (Donate, Support-Licenses)"/>
     </a>
 </p>
@@ -85,19 +85,9 @@ If you:
 
 ## Motivation
 
-We are working on building a [FOSS WAF-platform](https://github.com/O-X-L/wardenwall-waf) (*and centrally manageable network-firewalls*) which require such a collection of bot-related information.
-
-With our [IP-Abuse Reporting-System & Databases](https://github.com/O-X-L/risk-db) we have already started to collect information for it.
+With our [IP-Abuse Reporting-System & Databases](https://github.com/O-X-L/risk-db) we have started to collect information of abusers.
 
 As the mindset of Open-Source is at the core of our being - we want to transparently share it with the whole world.
-
-----
-
-### FOSS WAF Project
-
-This information-collection is part of our [FOSS WAF Project](https://github.com/O-X-L/wardenwall-waf).
-
-Check-out the demo: [demo.waf.wardenwall.com](https://demo.waf.wardenwall.com)
 
 ----
 
